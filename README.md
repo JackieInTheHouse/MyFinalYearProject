@@ -13,3 +13,5 @@ This web app is not just for ordinary users to upload and share recipes on the f
 3. MySQL database
 
 In addition, a relational database is created to allow tables and the data within the tables to link together using foreign keys. This data can then cleverly be retrieved to display on the front-end of the website to interact with users. The product is a sophisticated system that have been programmed to meet user requirements on the front-end, as well as developed to ensure all the protocols connect together in the background to make the overall system function well.
+
+## All the source code/jsp files are created in the src/main/webapp folder 
